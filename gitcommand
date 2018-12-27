@@ -2,8 +2,12 @@ Git commands
 
 Git version 
 git config user.name "hema R"
+<<<<<<< HEAD
 git config use.mail "mailstohema@gmail.com"
 git add .
 git commit -m "dfd"
 git branch b1
 git checkout b1
+=======
+git config use.mail "mailstohema@gmail.com"
+>>>>>>> parent of ad9bc39... second commit
