@@ -5,3 +5,5 @@ git config user.name "hema R"
 git config use.mail "mailstohema@gmail.com"
 git add .
 git commit -m "dfd"
+git branch b1
+git checkout b1
