@@ -5,3 +5,5 @@ Git init
 git add .  "to add"
 git delete
 
+git reset
+git revert
