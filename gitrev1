@@ -1,5 +1,4 @@
 Git status
-<<<<<<< HEAD
 Git init
 
 
@@ -8,6 +7,3 @@ git delete
 
 git reset
 git revert
-=======
-Git init
->>>>>>> parent of f83b647... 2 commmit
