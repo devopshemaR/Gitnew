@@ -1,2 +1,7 @@
 Git status
 Git init
+
+
+git add .  "to add"
+git delete
+
